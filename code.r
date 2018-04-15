@@ -4,6 +4,7 @@ library(tuber)
 library(dplyr)
 library(lubridate)
 library(purrr)
+library(purrrlyr)
 library(ggplot2)
 library(tidyr)
 
